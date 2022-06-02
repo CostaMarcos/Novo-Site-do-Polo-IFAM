@@ -36,3 +36,7 @@
 .menu-options p {
     padding: 14px;
 }
+
+.example-spacer {
+    flex: 1 1 auto;
+}
